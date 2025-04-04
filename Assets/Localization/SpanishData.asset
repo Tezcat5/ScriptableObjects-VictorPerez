@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170bff017b98b840b582e50edc12483, type: 3}
+  m_Name: SpanishData
+  m_EditorClassIdentifier: 
+  player1Description: "Wojciech Szcz\u0119sny, nacido en 1990 en Varsovia, es un
+    portero polaco con una gran trayectoria en el f\xFAtbol europeo. Jug\xF3 en el
+    Arsenal, la Roma y la Juventus, donde gan\xF3 varios t\xEDtulos. Tras retirarse
+    en 2024, decidi\xF3 volver al f\xFAtbol fichando por el FC Barcelona debido a
+    la lesi\xF3n de Ter Stegen. Con su experiencia y calidad bajo palos, busca aportar
+    seguridad al equipo."
+  player2Description: "Carles Puyol, nacido en 1978 en La Pobla de Segur, fue un
+    defensor ic\xF3nico del FC Barcelona y la selecci\xF3n espa\xF1ola. Reconocido
+    por su liderazgo, determinaci\xF3n y capacidad defensiva, gan\xF3 m\xFAltiples
+    t\xEDtulos, incluyendo la Champions League y la Copa del Mundo 2010. Es considerado
+    uno de los mejores defensores de la historia del f\xFAtbol."
+  player3Description: "Andrea Pirlo, nacido en 1979 en Italia, fue un centrocampista
+    elegante y t\xE9cnico, clave en el AC Milan, Juventus y la selecci\xF3n italiana.
+    Gan\xF3 la Serie A, la Champions League y el Mundial 2006. Su visi\xF3n de juego
+    y precisi\xF3n en los pases lo convirtieron en un referente del f\xFAtbol."
+  player4Description: "Robin van Persie, nacido en 1983 en R\xF3terdam, es un exdelantero
+    neerland\xE9s con una brillante carrera en clubes como Feyenoord, Arsenal, Manchester
+    United y Fenerbah\xE7e. Destac\xF3 por su capacidad goleadora y t\xE9cnica refinada.
+    Fue campe\xF3n de la Premier League con el United y m\xE1ximo goleador hist\xF3rico
+    de la selecci\xF3n de los Pa\xEDses Bajos."

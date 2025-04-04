@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170bff017b98b840b582e50edc12483, type: 3}
+  m_Name: PolishData
+  m_EditorClassIdentifier: 
+  player1Description: "Wojciech Szcz\u0119sny, urodzony w 1990 roku w Warszawie,
+    to polski bramkarz z bogat\u0105 karier\u0105 w europejskiej pi\u0142ce. Gra\u0142
+    w Arsenalu, Romie i Juventusie, zdobywaj\u0105c wiele trofe\xF3w. Po zako\u0144czeniu
+    kariery w 2024 roku wr\xF3ci\u0142 do gry, podpisuj\u0105c kontrakt z FC Barcelon\u0105
+    z powodu kontuzji Ter Stegena. Jego do\u015Bwiadczenie i umiej\u0119tno\u015Bci
+    maj\u0105 wzmocni\u0107 dru\u017Cyn\u0119."
+  player2Description: "Carles Puyol, urodzony w 1978 roku w La Pobla de Segur, by\u0142
+    legendarnym obro\u0144c\u0105 FC Barcelony i reprezentacji Hiszpanii. Znany ze
+    swojego przyw\xF3dztwa, determinacji i umiej\u0119tno\u015Bci defensywnych, zdoby\u0142
+    liczne tytu\u0142y, w tym Lig\u0119 Mistrz\xF3w i Mistrzostwa \u015Awiata 2010.
+    Uwa\u017Cany jest za jednego z najlepszych obro\u0144c\xF3w w historii futbolu."
+  player3Description: "Andrea Pirlo, urodzony w 1979 roku we W\u0142oszech, by\u0142
+    eleganckim i technicznym pomocnikiem, kluczowym graczem Milanu, Juventusu i reprezentacji
+    W\u0142och. Zdoby\u0142 Serie A, Lig\u0119 Mistrz\xF3w i mistrzostwo \u015Bwiata
+    2006. Jego wizja gry i precyzyjne podania uczyni\u0142y go legend\u0105 futbolu."
+  player4Description: "Robin van Persie, urodzony w 1983 roku w Rotterdamie, to by\u0142y
+    holenderski napastnik z imponuj\u0105c\u0105 karier\u0105 w Feyenoordzie, Arsenalu,
+    Manchesterze United i Fenerbah\xE7e. S\u0142yn\u0105\u0142 ze skuteczno\u015Bci
+    i \u015Bwietnej techniki. Zdoby\u0142 mistrzostwo Premier League z United i jest
+    najlepszym strzelcem w historii reprezentacji Holandii."

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170bff017b98b840b582e50edc12483, type: 3}
+  m_Name: DutchData
+  m_EditorClassIdentifier: 
+  player1Description: "Wojciech Szcz\u0119sny, geboren in 1990 in Warschau, is een
+    Poolse doelman met een indrukwekkende carri\xE8re in het Europese voetbal. Hij
+    speelde voor Arsenal, Roma en Juventus, waar hij meerdere titels won. Na zijn
+    pensioen in 2024 keerde hij terug naar het voetbal door bij FC Barcelona te tekenen
+    vanwege de blessure van Ter Stegen. Met zijn ervaring en kwaliteiten brengt hij
+    stabiliteit naar het team."
+  player2Description: Carles Puyol, geboren in 1978 in La Pobla de Segur, was een
+    iconische verdediger voor FC Barcelona en het Spaanse nationale team. Bekend
+    om zijn leiderschap, vastberadenheid en verdedigende kwaliteiten, won hij vele
+    titels, waaronder de Champions League en het WK 2010. Hij wordt beschouwd als
+    een van de beste verdedigers in de voetbalgeschiedenis.
+  player3Description: "Andrea Pirlo, geboren in 1979 in Itali\xEB, was een elegante
+    en technisch begaafde middenvelder, belangrijk voor AC Milan, Juventus en het
+    Italiaanse nationale team. Hij won de Serie A, de Champions League en het WK
+    2006. Zijn spelinzicht en passing maakten hem een voetbalicoon."
+  player4Description: "Robin van Persie, geboren in 1983 in Rotterdam, is een voormalige
+    Nederlandse spits met een glansrijke carri\xE8re bij clubs als Feyenoord, Arsenal,
+    Manchester United en Fenerbah\xE7e. Hij stond bekend om zijn scorend vermogen
+    en verfijnde techniek. Hij werd kampioen van de Premier League met United en
+    is topscorer aller tijden van het Nederlands elftal."
